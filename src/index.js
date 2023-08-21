@@ -1,4 +1,4 @@
 import { Greeter } from "./Greeter";
 
-console.log(`setting up SONAR with node project - test PR`);
+console.log(`Setting up SONAR for node project`);
 Greeter();
