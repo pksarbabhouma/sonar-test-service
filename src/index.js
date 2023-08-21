@@ -1,4 +1,4 @@
 import { Greeter } from "./Greeter";
 
-console.log(`Setting up SonarQube for javascript project - push into main`);
+console.log(`Setting up SonarQube for javascript project - push through PR`);
 Greeter();
